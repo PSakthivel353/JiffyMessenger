@@ -1,2 +1,2 @@
 # JiffyMessenger
-Starter level e-mail messaging platform using python and mysql
+Beginner level e-mail messaging platform using python and mysql created by a 16yr old student for a school project.
